@@ -14,8 +14,10 @@
 - 🤔 I’m looking for help with Front-End Development
 - ⚡ Fun fact: I'm a sucker for treks and trips!
 
+<!--
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sujith's Spotify Playing" width="350" />](https://open.spotify.com/playlist/74VNp24ZuqQdnwwmsondJo)
+-->
 
 ### Connect with Me
 
